@@ -1,1 +1,1 @@
-module.exports = getGithubData
+module.exports = gitterChat
